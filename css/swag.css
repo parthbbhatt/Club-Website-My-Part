@@ -1,0 +1,57 @@
+body {
+    background-color: #358db6;
+}
+
+#text1{
+    background-color: #cfd4d6;
+    text-align: center;
+    width: 450px;
+    height: 53px;
+    border-radius: 10px;
+    font-family: lato;
+    font-size: 20px;
+    border-color: transparent;
+    margin-top: 6.5%;
+    margin-left: 33.5%;
+}
+
+#text2, #text3, #text4, #text5, #text6{
+    background-color: #cfd4d6;
+    text-align: center;
+    width: 450px;
+    height: 53px;
+    border-radius: 10px;
+    font-family: lato;
+    font-size: 20px;
+    border-color: transparent;
+    margin-left: 33.5%;
+    margin-top: 0:
+}
+
+#submit1, #register1 {
+    background-color: #213454;
+    width: 450px;
+    height: 53px;
+    font-family: lato;
+    font-size: 20px;
+    color: white;
+    border-color: transparent;
+    margin-left: 33.6%;
+    margin-top: 2%;
+}
+
+#submit1:hover{
+    background-color: #091c3c;
+}
+
+h1 {
+    text-align: center;
+    font-size: 600%;
+    margin-top: 6%;
+    font-family: lato;
+    color: #091c3c;
+}
+
+button:hover{
+    color: #cfd4d6;
+}
